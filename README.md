@@ -11,6 +11,14 @@ A fully responsive, SEO-optimized, multilingual, and ready-to-use portfolio temp
 - ⚙️ **App Router & SEO**: Utilizes Next.js App Router for efficient page routing and metadata generation, with robust SEO settings.
 - 🎨 **Tailwind CSS & CSS Modules**: Styled with Tailwind for rapid design and CSS modules for custom styles.
 
+## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/7f7ebf94-6723-4c35-9ac2-d57b7f7d9b7d)
+![image](https://github.com/user-attachments/assets/cc33d263-cc35-4cf3-a020-be213c899c66)
+![image](https://github.com/user-attachments/assets/dc32d97c-aa2f-4a46-9537-d931e4b51d54)
+![image](https://github.com/user-attachments/assets/28725a07-f45f-4672-91d9-4f16cefb8c30)
+![image](https://github.com/user-attachments/assets/03812390-64d3-4775-8e8a-c77c0343f281)
+
+
 ## Getting Started
 
 **1. Clone the Repository** 
