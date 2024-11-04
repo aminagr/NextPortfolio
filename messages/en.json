@@ -1,0 +1,197 @@
+{
+  "header": "My Services",
+  "subheader": "Here are the digital marketing services I offer:",
+
+  "metadata": {
+    "home": {
+      "title": "Marketing Digital Specialist Portfolio",
+      "description": "I am Maria, a digital marketing specialist focused on creating impactful online strategies.",
+      "keywords": "digital marketing, online strategies, Maria",
+      "author": "Maria",
+      "og": {
+        "title": "Welcome to My Digital Marketing Portfolio",
+        "description": "I am Maria, a digital marketing specialist.",
+        "image": "/images/hero.png",
+        "url": "https://www.example.com/"
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "Welcome to My Digital Marketing Portfolio",
+        "description": "I am Maria, a digital marketing specialist.",
+        "image": "/images/hero.png"
+      }
+    },
+
+    "projects": {
+      "title": "My Projects",
+      "description": "Explore my projects, ranging from social media campaigns to SEO optimization strategies.",
+      "keywords": "projects, digital marketing, Maria",
+      "author": "Maria",
+      "og": {
+        "title": "My Projects",
+        "description": "Explore my completed digital marketing projects.",
+        "image": "/images/projet1.png",
+        "url": "#"
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "My Projects",
+        "description": "Explore my completed digital marketing projects.",
+        "image": "/images/projects.png"
+      }
+    },
+    "contact": {
+      "title": "Contact Me",
+      "description": "If you're interested in digital marketing services, reach out to discuss your needs!",
+      "keywords": "contact, Maria, digital marketing",
+      "author": "Maria",
+      "og": {
+        "title": "Contact Me",
+        "description": "Contact Maria to discuss your digital marketing needs.",
+        "image": "/images/contact.png",
+        "url": "https://www.example.com/contact"
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "Contact Me",
+        "description": "Contact Maria to discuss your digital marketing needs.",
+        "image": "/images/contact.png"
+      }
+    },
+    "about": {
+      "title": "About Me",
+      "description": "I am Maria, a digital marketing expert passionate about online growth and brand visibility.",
+      "keywords": "about, Maria, digital marketing",
+      "author": "Maria",
+      "og": {
+        "title": "About Me",
+        "description": "Learn about my background and skills in digital marketing.",
+        "image": "/images/about.png",
+        "url": "https://www.example.com/about"
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "About Me",
+        "description": "Learn about my background and skills in digital marketing.",
+        "image": "/images/about.png"
+      }
+    }
+  },
+
+  "about": {
+    "title": "About Me"
+  },
+
+  "titleProjects": "My Projects",
+  "subprojects": "Discover some of my digital marketing projects:",
+  "services": [
+    {
+      "title": "SEO Optimization",
+      "description": "Increase your website's visibility on search engines with tailored SEO strategies to attract more organic traffic."
+    },
+    {
+      "title": "Social Media Marketing",
+      "description": "Engage your audience and grow your brand through strategic social media campaigns across multiple platforms."
+    },
+    {
+      "title": "Content Marketing",
+      "description": "Develop and distribute high-quality content to build brand loyalty and generate leads."
+    },
+    {
+      "title": "Email Marketing",
+      "description": "Reach your customers directly with effective email campaigns that drive conversions."
+    },
+    {
+      "title": "PPC Advertising",
+      "description": "Maximize your ROI with targeted pay-per-click advertising to reach your ideal audience."
+    }
+  ],
+  "itemsServices": [
+    {
+      "title": "Digital Marketing Strategy",
+      "description": "I create custom marketing strategies that align with your business goals and target audience."
+    },
+    {
+      "title": "Analytics and Reporting",
+      "description": "Gain insights into your marketing performance with in-depth analytics and reporting."
+    },
+    {
+      "title": "Content Creation and SEO",
+      "description": "I produce engaging content and optimize it for search engines to increase your brand's visibility."
+    }
+  ],
+  "hero": {
+    "title": "Digital Marketing Specialist",
+    "subtitle": "Welcome!",
+    "description": "Hi! I'm Maria, a passionate digital marketing expert. I specialize in creating data-driven marketing strategies to help brands grow and reach their audience effectively."
+  },
+
+  "contact": {
+    "title": "Contact Me",
+    "subtitle": "Interested in growing your brand? Let's talk!",
+    "location-title": "Location",
+    "location": "Algeria",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Send me a message",
+      "sendButton": "Send",
+      "loading": "Sending...",
+      "success": "Email sent successfully!",
+      "error": "An error occurred. Please try again."
+    }
+  },
+  "footer": {
+    "email": "Email",
+    "home": "Home",
+    "projects": "Projects",
+    "about": "About",
+    "contact": "Contact",
+    "blog": "Blog",
+    "rights": "All rights reserved."
+  },
+
+  "bio": {
+    "title": "I am Maria",
+    "subtitle": "Digital Marketing Specialist",
+    "paragraph1": "I'm Maria, a digital marketing specialist with a background in online strategy and brand management.",
+    "paragraph2": "I focus on creating data-driven strategies that enhance brand visibility and engagement. From SEO to social media marketing, I tailor my approach to meet each client's unique needs.",
+    "paragraph3": "My passion for marketing extends to content creation and analytics, where I help brands connect with their audience and measure performance effectively."
+  },
+
+  "navbar": {
+    "home": "Home",
+    "projects": "Projects",
+    "about": "About",
+    "contact": "Contact",
+    "blog": "Blog",
+    "services": "Services"
+  },
+
+  "projects": {
+    "titleProjects": "My Projects",
+    "subprojects": "Discover some of my digital marketing projects:",
+    "project1": {
+      "title": "Organic Reach Campaign",
+      "description": "An SEO-focused project aimed at boosting organic traffic for a local business website.",
+      "image": "/images/projet1.jpg",
+      "gallery": "/images/projet1.jpg,/images/projet2.jpg",
+      "website": "#"
+    },
+    "project2": {
+      "title": "Social Media Growth Strategy",
+      "description": "Developed and implemented a social media strategy for a startup, resulting in a 150% growth in engagement.",
+      "image": "/images/projet2.jpg",
+      "gallery": "/images/projet2.jpg,/images/projet1.jpg",
+      "website": "#"
+    },
+    "project3": {
+      "title": "E-commerce PPC Campaign",
+      "description": "Created a targeted PPC advertising campaign for an online store, achieving a high ROI and increasing sales by 80%.",
+      "image": "/images/marketing.jpg",
+      "gallery": "/images/marketing.jpg,/images/projet1.jpg",
+      "website": "#"
+    }
+  }
+}

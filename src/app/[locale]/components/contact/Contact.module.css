@@ -1,0 +1,19 @@
+.contactContainer {
+    text-align: center;
+
+}
+
+.title {
+    color: white;
+    background: linear-gradient(to right, #133E87, #FFB6C1);
+
+padding: 20px 0;
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+}
+
+.subtitle {
+    color: #848484;
+    margin-bottom: 2rem;
+    text-align: center;
+}

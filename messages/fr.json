@@ -1,0 +1,197 @@
+{
+  "header": "Mes Services",
+  "subheader": "Voici les services de marketing digital que je propose :",
+
+  "metadata": {
+    "home": {
+      "title": "Maria",
+      "description": "Je suis Maria, spécialiste en marketing digital, axée sur la création de stratégies en ligne percutantes.",
+      "keywords": "marketing digital, stratégies en ligne, Maria",
+      "author": "Maria",
+      "og": {
+        "title": "Bienvenue sur Mon Portfolio de Marketing Digital",
+        "description": "Je suis Maria, spécialiste en marketing digital.",
+        "image": "/images/hero.png",
+        "url": "https://www.example.com/"
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "Bienvenue sur Mon Portfolio de Marketing Digital",
+        "description": "Je suis Maria, spécialiste en marketing digital.",
+        "image": "/images/hero.png"
+      }
+    },
+
+    "projects": {
+      "title": "Mes Projets",
+      "description": "Découvrez mes projets, allant des campagnes sur les réseaux sociaux aux stratégies d'optimisation SEO.",
+      "keywords": "projets, marketing digital, Maria",
+      "author": "Maria",
+      "og": {
+        "title": "Mes Projets",
+        "description": "Découvrez mes projets de marketing digital réalisés.",
+        "image": "/images/projects.png",
+        "url": "https://www.example.com/projects"
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "Mes Projets",
+        "description": "Découvrez mes projets de marketing digital réalisés.",
+        "image": "/images/projects.png"
+      }
+    },
+    "contact": {
+      "title": "Me Contacter",
+      "description": "Si vous êtes intéressé par des services de marketing digital, contactez-moi pour discuter de vos besoins !",
+      "keywords": "contact, Maria, marketing digital",
+      "author": "Maria",
+      "og": {
+        "title": "Me Contacter",
+        "description": "Contactez Maria pour discuter de vos besoins en marketing digital.",
+        "image": "/images/contact.png",
+        "url": "https://www.example.com/contact"
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "Me Contacter",
+        "description": "Contactez Maria pour discuter de vos besoins en marketing digital.",
+        "image": "/images/contact.png"
+      }
+    },
+    "about": {
+      "title": "À Propos de Moi",
+      "description": "Je suis Maria, experte en marketing digital, passionnée par la croissance en ligne et la visibilité des marques.",
+      "keywords": "à propos, Maria, marketing digital",
+      "author": "Maria",
+      "og": {
+        "title": "À Propos de Moi",
+        "description": "Découvrez mon parcours et mes compétences en marketing digital.",
+        "image": "/images/about.png",
+        "url": "https://www.example.com/about"
+      },
+      "twitter": {
+        "card": "summary_large_image",
+        "title": "À Propos de Moi",
+        "description": "Découvrez mon parcours et mes compétences en marketing digital.",
+        "image": "/images/about.png"
+      }
+    }
+  },
+
+  "about": {
+    "title": "À Propos de Moi"
+  },
+
+  "titleProjects": "Mes Projets",
+  "subprojects": "Découvrez quelques-uns de mes projets de marketing digital :",
+  "services": [
+    {
+      "title": "Optimisation SEO",
+      "description": "Augmentez la visibilité de votre site web sur les moteurs de recherche grâce à des stratégies SEO sur mesure pour attirer plus de trafic organique."
+    },
+    {
+      "title": "Marketing sur les Réseaux Sociaux",
+      "description": "Engagez votre audience et développez votre marque avec des campagnes stratégiques sur les réseaux sociaux."
+    },
+    {
+      "title": "Marketing de Contenu",
+      "description": "Développez et distribuez du contenu de qualité pour renforcer la fidélité à la marque et générer des leads."
+    },
+    {
+      "title": "Marketing par Email",
+      "description": "Touchez directement vos clients avec des campagnes email efficaces qui favorisent les conversions."
+    },
+    {
+      "title": "Publicité PPC",
+      "description": "Maximisez votre ROI avec des publicités au coût par clic ciblées pour atteindre votre audience idéale."
+    }
+  ],
+  "itemsServices": [
+    {
+      "title": "Stratégie de Marketing Digital",
+      "description": "Je crée des stratégies de marketing personnalisées qui s'alignent sur vos objectifs commerciaux et votre audience cible."
+    },
+    {
+      "title": "Analyse et Reporting",
+      "description": "Obtenez des informations sur les performances de votre marketing grâce à des analyses et rapports détaillés."
+    },
+    {
+      "title": "Création de Contenu et SEO",
+      "description": "Je produis du contenu engageant et l'optimise pour les moteurs de recherche afin d'augmenter la visibilité de votre marque."
+    }
+  ],
+  "hero": {
+    "title": "Spécialiste en Marketing Digital",
+    "subtitle": "Bienvenue !",
+    "description": "Salut ! Je suis Maria, une experte passionnée de marketing digital. Je me spécialise dans la création de stratégies marketing basées sur les données pour aider les marques à croître et atteindre leur audience efficacement."
+  },
+
+  "contact": {
+    "title": "Me Contacter",
+    "subtitle": "Intéressé par la croissance de votre marque ? Discutons-en !",
+    "location-title": "Localisation",
+    "location": "Algérie",
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "subject": "Sujet",
+      "message": "Envoyez-moi un message",
+      "sendButton": "Envoyer",
+      "loading": "Envoi en cours...",
+      "success": "Email envoyé avec succès !",
+      "error": "Une erreur est survenue. Veuillez réessayer."
+    }
+  },
+  "footer": {
+    "email": "Email",
+    "home": "Accueil",
+    "projects": "Projets",
+    "about": "À Propos",
+    "contact": "Contact",
+    "blog": "Blog",
+    "rights": "Tous droits réservés."
+  },
+
+  "bio": {
+    "title": "Je suis Maria",
+    "subtitle": "Spécialiste en Marketing Digital",
+    "paragraph1": "Je suis Maria, spécialiste en marketing digital avec une expérience en stratégie en ligne et gestion de marque.",
+    "paragraph2": "Je me concentre sur la création de stratégies basées sur les données pour renforcer la visibilité et l'engagement des marques. Du SEO au marketing sur les réseaux sociaux, j'adapte mon approche aux besoins spécifiques de chaque client.",
+    "paragraph3": "Ma passion pour le marketing s'étend à la création de contenu et à l'analyse, où j'aide les marques à se connecter avec leur audience et à mesurer les performances de manière efficace."
+  },
+
+  "navbar": {
+    "home": "Accueil",
+    "projects": "Projets",
+    "about": "À Propos",
+    "contact": "Contact",
+    "blog": "Blog",
+    "services": "Services"
+  },
+
+  "projects": {
+    "titleProjects": "Mes Projets",
+    "subprojects": "Découvrez quelques-uns de mes projets de marketing digital :",
+    "project1": {
+      "title": "Campagne de Portée Organique",
+      "description": "Un projet axé sur le SEO visant à augmenter le trafic organique pour le site d'une entreprise locale.",
+      "image": "/images/projet1.jpg",
+      "gallery": "/images/projet1.jpg,/images/projet2.jpg",
+      "website": "#"
+    },
+    "project2": {
+      "title": "Stratégie de Croissance sur les Réseaux Sociaux",
+      "description": "Développement et mise en œuvre d'une stratégie pour une startup, ayant entraîné une augmentation de 150% de l'engagement.",
+      "image": "/images/projet2.jpg",
+      "gallery": "/images/projet2.jpg,/images/projet1.jpg",
+      "website": "#"
+    },
+    "project3": {
+      "title": "Campagne PPC pour E-commerce",
+      "description": "Création d'une campagne de publicité PPC ciblée pour une boutique en ligne, atteignant un ROI élevé et une augmentation de 80% des ventes.",
+      "image": "/images/marketing.jpg",
+      "gallery": "/images/marketing.jpg,/images/projet1.jpg",
+      "website": "#"
+    }
+  }
+}

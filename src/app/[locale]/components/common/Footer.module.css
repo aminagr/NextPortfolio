@@ -1,0 +1,84 @@
+.footer {
+    background-color: black;
+    color: white;
+    padding: 3rem 2rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.logoContainer {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1rem;
+}
+
+.logo {
+    font-family: "Saira Condensed", sans-serif;
+    font-weight: 500;
+    font-size: 30px;
+    color: #133E87;
+    text-decoration: none;
+}
+
+.footerContent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.email {
+    margin-right: 2rem;
+}
+
+.menu {
+    display: flex;
+    margin-right: 2rem;
+}
+
+.link {
+    color: white;
+    margin: 0 1rem;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: #133E87;
+}
+
+.socialIcons {
+    display: flex;
+}
+
+.icon {
+    font-size: 1.5rem;
+    margin: 0 0.5rem;
+    color: white;
+    transition: color 0.3s;
+}
+
+.icon:hover {
+    color: #133E87;
+}
+
+.copy {
+    font-size: 0.9rem;
+    background-color: #133E87;
+    color: black;
+    padding: 1.5rem;
+    text-align: center;
+}
+
+@media (max-width: 768px) {
+    .footerContent {
+        flex-direction: column;
+    }
+
+    .email, .menu {
+        margin-right: 0;
+        margin-bottom: 1rem;
+        font-size: 13px;
+    }
+  
+}
