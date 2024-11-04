@@ -19,10 +19,12 @@ git clone https://github.com/yourusername/nextjs-portfolio-template.git
 cd nextjs-portfolio-template
 ```
 **2. Install Dependencies**
-`npm install`
+ ```bash
+npm install
+```
 **3. Configure Environment Variables**
 
-- If you wish to enable the contact form via EmailJS, Sign up at [EmailJS](https://www.emailjs.com/) to obtain your keys, uncomment the code in the ContactForm component and add the following environment variables in .env.local
+If you wish to enable the contact form via EmailJS, Sign up at [EmailJS](https://www.emailjs.com/) to obtain your keys, uncomment the code in the ContactForm component and add the following environment variables in .env.local
 
  ```bash
 NEXT_PUBLIC_EMAILJS_PUBLIC_KEY=your_public_key
@@ -35,7 +37,9 @@ NEXT_PUBLIC_EMAILJS_TEMPLATE_ID=your_template_id
 Update the language files (`en.json`, `fr.json`) in the `public/messages` folder for supported translations and you can extend to new languages by adding JSON files in `public/messages`and update `next-intl` to recognize them.
 
 **5. Run the Development Server**
-`npm run dev`
+```bash 
+npm run dev
+ ```
 
 Your application will be live at http://localhost:3000
 
