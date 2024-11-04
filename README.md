@@ -15,8 +15,8 @@ A fully responsive, SEO-optimized, multilingual, and ready-to-use portfolio temp
 
 **1. Clone the Repository** 
  ```bash
-git clone https://github.com/yourusername/nextjs-portfolio-template.git
-cd nextjs-portfolio-template
+git clone https://github.com/aminagr/NextPortfolio.git
+cd NextPortfolio
 ```
 **2. Install Dependencies**
  ```bash
