@@ -56,5 +56,8 @@ Your application will be live at http://localhost:3000
 Contributions are welcome! Open an issue or submit a pull request to share your suggestions and improvements.
 # 📜 License 
 
+This work, including the source code and template, is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0). You are free to copy, modify, and distribute this work under the following conditions:
 
-This project is licensed under the [GNU General Public License (GPL)](https://www.gnu.org/licenses/gpl-3.0.html). You can freely use, modify, and distribute this software, but any derivative works must also be licensed under the GPL. For more details, please refer to the [LICENSE](LICENSE) file in the repository.
+- **Attribution**: You must give appropriate credit to the original author, Amina Gmine, by mentioning her name and linking to the original GitHub repository.
+- **Non-Commercial**: You may not use the material for commercial purposes without prior permission from the author.
+
