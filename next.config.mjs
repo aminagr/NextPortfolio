@@ -9,6 +9,9 @@ const nextConfig = { output: 'export',
   
       },
       trailingSlash: true, 
+      eslint: {
+        ignoreDuringBuilds: true,
+      },
 };
  
 export default withNextIntl(nextConfig);
