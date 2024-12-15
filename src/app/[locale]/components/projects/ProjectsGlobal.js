@@ -56,7 +56,7 @@ const ProjectsGlobal = () => {
     }, {});
 
     return (
-        <section className="py-12 px-6 md:px-24 bg-white" id="projects">
+        <section className="pt-12 px-6 md:px-24 bg-white" id="projects">
             <div className="container mx-auto text-center">
                 <h1 className="font-bold mb-6 text-[#133E87]">{t('titleProjects')}</h1>
                 <p className="text-gray-600 mb-12 text-center">{t('subprojects')}</p>

@@ -7,3 +7,5 @@ export const config = {
 
   matcher: ['/', '/(fr|en)/:path*'],
 };
+
+

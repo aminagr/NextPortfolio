@@ -5,19 +5,19 @@
   "metadata": {
     "home": {
       "title": "Marketing Digital Specialist Portfolio",
-      "description": "I am Maria, a digital marketing specialist focused on creating impactful online strategies.",
-      "keywords": "digital marketing, online strategies, Maria",
-      "author": "Maria",
+      "description": "I am Amina, a digital marketing specialist focused on creating impactful online strategies.",
+      "keywords": "digital marketing, online strategies, Amina",
+      "author": "Amina",
       "og": {
         "title": "Welcome to My Digital Marketing Portfolio",
-        "description": "I am Maria, a digital marketing specialist.",
+        "description": "I am Amina, a digital marketing specialist.",
         "image": "/images/hero.png",
         "url": "https://www.example.com/"
       },
       "twitter": {
         "card": "summary_large_image",
         "title": "Welcome to My Digital Marketing Portfolio",
-        "description": "I am Maria, a digital marketing specialist.",
+        "description": "I am Amina, a digital marketing specialist.",
         "image": "/images/hero.png"
       }
     },
@@ -25,8 +25,8 @@
     "projects": {
       "title": "My Projects",
       "description": "Explore my projects, ranging from social media campaigns to SEO optimization strategies.",
-      "keywords": "projects, digital marketing, Maria",
-      "author": "Maria",
+      "keywords": "projects, digital marketing, Amina",
+      "author": "Amina",
       "og": {
         "title": "My Projects",
         "description": "Explore my completed digital marketing projects.",
@@ -43,26 +43,26 @@
     "contact": {
       "title": "Contact Me",
       "description": "If you're interested in digital marketing services, reach out to discuss your needs!",
-      "keywords": "contact, Maria, digital marketing",
-      "author": "Maria",
+      "keywords": "contact, Amina, digital marketing",
+      "author": "Amina",
       "og": {
         "title": "Contact Me",
-        "description": "Contact Maria to discuss your digital marketing needs.",
+        "description": "Contact Amina to discuss your digital marketing needs.",
         "image": "/images/contact.png",
         "url": "https://www.example.com/contact"
       },
       "twitter": {
         "card": "summary_large_image",
         "title": "Contact Me",
-        "description": "Contact Maria to discuss your digital marketing needs.",
+        "description": "Contact Amina to discuss your digital marketing needs.",
         "image": "/images/contact.png"
       }
     },
     "about": {
       "title": "About Me",
-      "description": "I am Maria, a digital marketing expert passionate about online growth and brand visibility.",
-      "keywords": "about, Maria, digital marketing",
-      "author": "Maria",
+      "description": "I am Amina, a digital marketing expert passionate about online growth and brand visibility.",
+      "keywords": "about, Amina, digital marketing",
+      "author": "Amina",
       "og": {
         "title": "About Me",
         "description": "Learn about my background and skills in digital marketing.",
@@ -123,7 +123,7 @@
   "hero": {
     "title": "Digital Marketing Specialist",
     "subtitle": "Welcome!",
-    "description": "Hi! I'm Maria, a passionate digital marketing expert. I specialize in creating data-driven marketing strategies to help brands grow and reach their audience effectively."
+    "description": "Hi! I'm Amina, a passionate digital marketing expert. I specialize in creating data-driven marketing strategies to help brands grow and reach their audience effectively."
   },
 
   "contact": {
@@ -153,9 +153,9 @@
   },
 
   "bio": {
-    "title": "I am Maria",
+    "title": "I am Amina",
     "subtitle": "Digital Marketing Specialist",
-    "paragraph1": "I'm Maria, a digital marketing specialist with a background in online strategy and brand management.",
+    "paragraph1": "I'm Amina, a digital marketing specialist with a background in online strategy and brand management.",
     "paragraph2": "I focus on creating data-driven strategies that enhance brand visibility and engagement. From SEO to social media marketing, I tailor my approach to meet each client's unique needs.",
     "paragraph3": "My passion for marketing extends to content creation and analytics, where I help brands connect with their audience and measure performance effectively."
   },

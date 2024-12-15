@@ -30,7 +30,7 @@ const Footer = () => {
                     <Link href="/" className={styles.logo}>My Portfolio </Link>
                 </div>
                 <div className={styles.footerContent}>
-                    <div className={styles.email}>me@gmail.com</div>
+                    <div className={styles.email}>aminagrine.dev@gmail.com</div>
                     <div className={styles.menu}>
                         {NavLinks.map((link) => (
                             <Link
@@ -49,7 +49,7 @@ const Footer = () => {
                 </div>
             </footer>
             <div className={styles.copy}>
-                &copy; {new Date().getFullYear()} Me {t('rights')}
+                &copy; {new Date().getFullYear()} Amina Grine {t('rights')}
             </div>
         </div>
     );
