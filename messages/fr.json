@@ -4,20 +4,20 @@
 
   "metadata": {
     "home": {
-      "title": "Amina",
-      "description": "Je suis Amina, spécialiste en marketing digital, axée sur la création de stratégies en ligne percutantes.",
+      "title": "Marketing Ditigitale",
+      "description": "Je suis spécialiste en marketing digital, axée sur la création de stratégies en ligne percutantes.",
       "keywords": "marketing digital, stratégies en ligne, Amina",
       "author": "Amina",
       "og": {
         "title": "Bienvenue sur Mon Portfolio de Marketing Digital",
-        "description": "Je suis Amina, spécialiste en marketing digital.",
+        "description": "Je suis spécialiste en marketing digital.",
         "image": "/images/hero.png",
         "url": "https://www.example.com/"
       },
       "twitter": {
         "card": "summary_large_image",
         "title": "Bienvenue sur Mon Portfolio de Marketing Digital",
-        "description": "Je suis Amina, spécialiste en marketing digital.",
+        "description": "Je suis spécialiste en marketing digital.",
         "image": "/images/hero.png"
       }
     },
@@ -47,20 +47,20 @@
       "author": "Amina",
       "og": {
         "title": "Me Contacter",
-        "description": "Contactez Amina pour discuter de vos besoins en marketing digital.",
+        "description": "Contactez moi pour discuter de vos besoins en marketing digital.",
         "image": "/images/contact.png",
         "url": "https://www.example.com/contact"
       },
       "twitter": {
         "card": "summary_large_image",
         "title": "Me Contacter",
-        "description": "Contactez Amina pour discuter de vos besoins en marketing digital.",
+        "description": "Contactez moi pour discuter de vos besoins en marketing digital.",
         "image": "/images/contact.png"
       }
     },
     "about": {
       "title": "À Propos de Moi",
-      "description": "Je suis Amina, experte en marketing digital, passionnée par la croissance en ligne et la visibilité des marques.",
+      "description": "Je suis experte en marketing digital, passionnée par la croissance en ligne et la visibilité des marques.",
       "keywords": "à propos, Amina, marketing digital",
       "author": "Amina",
       "og": {
@@ -123,7 +123,7 @@
   "hero": {
     "title": "Spécialiste en Marketing Digital",
     "subtitle": "Bienvenue !",
-    "description": "Salut ! Je suis Amina, une experte passionnée de marketing digital. Je me spécialise dans la création de stratégies marketing basées sur les données pour aider les marques à croître et atteindre leur audience efficacement."
+    "description": "Salut ! Je suis une experte passionnée de marketing digital. Je me spécialise dans la création de stratégies marketing basées sur les données pour aider les marques à croître et atteindre leur audience efficacement."
   },
 
   "contact": {
@@ -153,9 +153,9 @@
   },
 
   "bio": {
-    "title": "Je suis Amina",
-    "subtitle": "Spécialiste en Marketing Digital",
-    "paragraph1": "Je suis Amina, spécialiste en marketing digital avec une expérience en stratégie en ligne et gestion de marque.",
+    "title": "Salut!",
+    "subtitle": "Je suis Spécialiste en Marketing Digital",
+    "paragraph1": "Je suis spécialiste en marketing digital avec une expérience en stratégie en ligne et gestion de marque.",
     "paragraph2": "Je me concentre sur la création de stratégies basées sur les données pour renforcer la visibilité et l'engagement des marques. Du SEO au marketing sur les réseaux sociaux, j'adapte mon approche aux besoins spécifiques de chaque client.",
     "paragraph3": "Ma passion pour le marketing s'étend à la création de contenu et à l'analyse, où j'aide les marques à se connecter avec leur audience et à mesurer les performances de manière efficace."
   },

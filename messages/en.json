@@ -5,19 +5,19 @@
   "metadata": {
     "home": {
       "title": "Marketing Digital Specialist Portfolio",
-      "description": "I am Amina, a digital marketing specialist focused on creating impactful online strategies.",
-      "keywords": "digital marketing, online strategies, Amina",
+      "description": "I am a digital marketing specialist focused on creating impactful online strategies.",
+      "keywords": "digital marketing, online strategies",
       "author": "Amina",
       "og": {
         "title": "Welcome to My Digital Marketing Portfolio",
-        "description": "I am Amina, a digital marketing specialist.",
+        "description": "I am a digital marketing specialist.",
         "image": "/images/hero.png",
         "url": "https://www.example.com/"
       },
       "twitter": {
         "card": "summary_large_image",
         "title": "Welcome to My Digital Marketing Portfolio",
-        "description": "I am Amina, a digital marketing specialist.",
+        "description": "I am a digital marketing specialist.",
         "image": "/images/hero.png"
       }
     },
@@ -60,7 +60,7 @@
     },
     "about": {
       "title": "About Me",
-      "description": "I am Amina, a digital marketing expert passionate about online growth and brand visibility.",
+      "description": "I am a digital marketing expert passionate about online growth and brand visibility.",
       "keywords": "about, Amina, digital marketing",
       "author": "Amina",
       "og": {
@@ -123,7 +123,7 @@
   "hero": {
     "title": "Digital Marketing Specialist",
     "subtitle": "Welcome!",
-    "description": "Hi! I'm Amina, a passionate digital marketing expert. I specialize in creating data-driven marketing strategies to help brands grow and reach their audience effectively."
+    "description": "Hi! I'm a passionate digital marketing expert. I specialize in creating data-driven marketing strategies to help brands grow and reach their audience effectively."
   },
 
   "contact": {
@@ -153,9 +153,9 @@
   },
 
   "bio": {
-    "title": "I am Amina",
-    "subtitle": "Digital Marketing Specialist",
-    "paragraph1": "I'm Amina, a digital marketing specialist with a background in online strategy and brand management.",
+    "title": "Hey :)",
+    "subtitle": "I'm a Digital Marketing Specialist",
+    "paragraph1": "I'm a digital marketing specialist with a background in online strategy and brand management.",
     "paragraph2": "I focus on creating data-driven strategies that enhance brand visibility and engagement. From SEO to social media marketing, I tailor my approach to meet each client's unique needs.",
     "paragraph3": "My passion for marketing extends to content creation and analytics, where I help brands connect with their audience and measure performance effectively."
   },
