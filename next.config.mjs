@@ -4,9 +4,14 @@ const withNextIntl = createNextIntlPlugin();
  
 /** @type {import('next').NextConfig} */
 const nextConfig = { 
-      eslint: {
-        ignoreDuringBuilds: true,
-      },
+
+  output: 'export',
+  images: {
+    unoptimized: true,  
+  },
+  eslint: {
+      ignoreDuringBuilds: true,
+          },
 };
  
 export default withNextIntl(nextConfig);
